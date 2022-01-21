@@ -1,8 +1,6 @@
 # Zookeeper bits (in Scala)
 
-In this repo you can find a set of example (in the form of tests) on how to integrate with Zookeeper 
-in the following way:
-* TBD...
+In this repo you can find a set of example (in the form of tests) on how to integrate with Zookeeper using the plain Java client.
 
 ## Run tests
 
