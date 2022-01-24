@@ -5,6 +5,8 @@ version           := "0.1.0-SNAPSHOT"
 organization      := "org.aalexandre"
 organizationName  := "aalexandre"
 
+Test / parallelExecution := true
+
 name := "zookeeper-bits"
 libraryDependencies ++= Seq(
   slf4j,
